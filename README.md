@@ -15,7 +15,7 @@ Backend: Node.js / Flask (optional)
 Environment: .env for API keys
 📦 Installation
 1. Clone the repository
-git clone https://github.com/yourusername/chatbot-openai.git
+git clone https://github.com/romesh45/chatbot-openai.git
 cd chatbot-openai
 2. Install dependencies
 
