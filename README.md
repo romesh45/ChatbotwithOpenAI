@@ -1,4 +1,3 @@
-🤖 Chatbot with OpenAI
 
 A simple AI-powered chatbot built using OpenAI APIs. This project demonstrates how to create a conversational assistant with natural language understanding, API integration, and real-time responses.
 
