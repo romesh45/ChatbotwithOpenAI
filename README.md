@@ -276,7 +276,7 @@ Add automated response quality checks using LangChain's `QAEvalChain` or an `LLM
 
 ## Author
 
-**Romesh** — building toward production AI engineering.
+**Romesh** — Building a AI Engineering things.
 
 - GitHub: [@romesh45](https://github.com/romesh45)
 
