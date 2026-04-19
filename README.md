@@ -1,4 +1,4 @@
-# Stateful Conversational AI System — LangChain · GPT-3.5-Turbo · Hugging Face Spaces
+# Conversational AI System — LangChain · GPT-3.5-Turbo · Hugging Face Spaces
 
 > Most "chatbot" tutorials stop at a single API call. This project starts where they end.
 > A production-architected, memory-persistent conversational agent — built with deliberate engineering decisions across LLM orchestration, prompt design, and cloud deployment, then shipped to a live Hugging Face Space with programmatic CI/CD.
